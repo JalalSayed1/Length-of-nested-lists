@@ -16,4 +16,4 @@ def get_length(lst):
             print(length)
 
 
-get_length([1, [2, 3]])
+get_length([1, [2, 3]]) # test
